@@ -1,0 +1,28 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\intermediate\\build\\win64\\unrealeditor\\development\\blockouttoolsplugin\\module.blockouttoolsplugin.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\program files\\epic games\\ue_source\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\intermediate\\build\\win64\\unrealeditor\\development\\blockouttoolsplugin\\definitions.blockouttoolsplugin.h",
+            "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\blockouttoolsplugin\\blockouttoolsparent.gen.cpp",
+            "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\source\\blockouttoolsplugin\\private\\blockouttoolsparent.h",
+            "c:\\program files\\epic games\\ue_source\\engine\\source\\runtime\\engine\\classes\\components\\billboardcomponent.h",
+            "c:\\program files\\epic games\\ue_source\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\billboardcomponent.generated.h",
+            "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\blockouttoolsplugin\\blockouttoolsparent.generated.h",
+            "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\blockouttoolsplugin\\blockouttoolsplugin.init.gen.cpp",
+            "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\blockouttoolsplugin\\blockouttoolssettings.gen.cpp",
+            "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\source\\blockouttoolsplugin\\public\\blockouttoolssettings.h",
+            "c:\\program files\\epic games\\ue_source\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_source\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_source\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_source\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_source\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_source\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\gamedev\\unrealengine\\projects\\pingpong\\plugins\\marketplace\\blockouttoolsplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\blockouttoolsplugin\\blockouttoolssettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

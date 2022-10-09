@@ -1,0 +1,23 @@
+{
+	"Files": [
+		{
+			"Path": "PingPong/Plugins/PlatformSkinPurple/Content/PlatformAsset.uasset",
+			"ChunkId": "836b1a78bf6cb9b300000001"
+		},
+		{
+			"Path": "PingPong/Plugins/PlatformSkinPurple/Content/M_SimpleColor_Purple.uasset",
+			"ChunkId": "582681ef98ff754f00000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/PlatformSkinPurple/PlatformAsset",
+			"PackageChunkId": "836b1a78bf6cb9b300000001"
+		},
+		{
+			"Name": "/PlatformSkinPurple/M_SimpleColor_Purple",
+			"PackageChunkId": "582681ef98ff754f00000001"
+		}
+	],
+	"OptionalPackages": []
+}

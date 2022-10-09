@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.BlockoutToolsPlugin.cpp.o",
+		"Module.BlockoutToolsPlugin.gen.cpp.o"
+	]
+}

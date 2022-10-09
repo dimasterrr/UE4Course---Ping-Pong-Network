@@ -1,0 +1,23 @@
+{
+	"Files": [
+		{
+			"Path": "PingPong/Plugins/PlatformSkinGold/Content/PlatformAsset.uasset",
+			"ChunkId": "82fe0d13daafb89a00000001"
+		},
+		{
+			"Path": "PingPong/Plugins/PlatformSkinGold/Content/M_SimpleColor_Gold.uasset",
+			"ChunkId": "ae583b32e538bf3100000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/PlatformSkinGold/PlatformAsset",
+			"PackageChunkId": "82fe0d13daafb89a00000001"
+		},
+		{
+			"Name": "/PlatformSkinGold/M_SimpleColor_Gold",
+			"PackageChunkId": "ae583b32e538bf3100000001"
+		}
+	],
+	"OptionalPackages": []
+}
